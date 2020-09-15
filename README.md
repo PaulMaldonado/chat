@@ -1,5 +1,5 @@
 # chat
-Chat creado con expres.js y socket.io
+Chat created with express.js and socket.io
 
 ## Bakckend Tools
 
@@ -15,19 +15,19 @@ Chat creado con expres.js y socket.io
   * Bootstrap 4
   * Jquery
   
-# Availabel Scripts
+## Availabel Scripts
 
 ## In the project directory, you can run:
 
 npm install
 
-### With this command you will install the project dependencies
+## With this command you will install the project dependencies
 
-## After that, when the dependencies are installed, run the following command
+After that, when the dependencies are installed, run the following command
 
 npm run dev
 
-### With this command you will run the web server, which we use nodemon, which is a node js module that allows us to be reloading our server automatically
+With this command you will run the web server, which we use nodemon, which is a node js module that allows us to be reloading our server automatically
 
 ## And voila, now go to your browser and open it at the following address
 
