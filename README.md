@@ -27,7 +27,7 @@ After that, when the dependencies are installed, run the following command
 
 npm run dev
 
-# With this command you will run the web server, which we use nodemon, which is a node js module that allows us to be reloading our server automatically
+## With this command you will run the web server, which we use nodemon, which is a node js module that allows us to be reloading our server automatically
 
 And voila, now go to your browser and open it at the following address
 
