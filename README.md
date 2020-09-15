@@ -13,7 +13,7 @@ Chat created with express.js and socket.io
 
 * CSS
   * Bootstrap 4
-  * Jquery
+  * Jquery 3.5.1
   
 ## Availabel Scripts
 
@@ -27,8 +27,8 @@ After that, when the dependencies are installed, run the following command
 
 npm run dev
 
-With this command you will run the web server, which we use nodemon, which is a node js module that allows us to be reloading our server automatically
+# With this command you will run the web server, which we use nodemon, which is a node js module that allows us to be reloading our server automatically
 
-## And voila, now go to your browser and open it at the following address
+And voila, now go to your browser and open it at the following address
 
 http://localhost:3000
